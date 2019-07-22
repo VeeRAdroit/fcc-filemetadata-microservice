@@ -7,7 +7,8 @@
 3. When I submit something, I will receive the file name and size in bytes within the JSON response
 
 ### Usage :
-* Go to the main page, and upload a file using the provided form.
+* Go to the main page https://triangular-hygienic.glitch.me/ , and upload a file using the provided form.
+
 
 ### Hint:
 * To handle the file uploading you should use the [multer](https://www.npmjs.com/package/multer) npm package.
